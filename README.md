@@ -28,37 +28,37 @@ It simulates a basic e-commerce experience with clean UI and responsive design.
 ## 📸 Screenshots
 
 ###  Welcome Page
-![Login](screenshots/1.png)
+![Welcome](screenshots/1.jpg)
 
 ---
 
 ### Login Page
-![Home](screenshots/2.png)
+![Login](screenshots/2.jpg)
 
 ---
 
 ### Signup Page
-![Signup](screenshots/3.png)
+![Signup](screenshots/3.jpg)
 
 ---
 
 ### validation Page
-![Add](screenshots/4.png)
+![validation](screenshots/4.jpg)
 
 ### successful Page
-![Login](screenshots/5.png)
+![successful](screenshots/5.jpg)
 
 ---
 
 ### Home1 Page
-![Home](screenshots/6.png)
+![Home1](screenshots/6.jpg)
 
 ---
 
 ### Home2 Page
-![Signup](screenshots/7.png)
+![Home2](screenshots/7.jpg)
 
 ---
 
 ### Home3 Page
-![Add](screenshots/8.png)
+![Home3](screenshots/8.jpg)
